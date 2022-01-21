@@ -13,3 +13,22 @@ npm install
 # start the server
 npx modemon
 ```
+## Making a get request
+
+```bash
+# endpoint - /reports
+```
+
+## Making a post request
+
+```bash
+# endpoint - /report-incident
+
+x-www-form-urlencoded parameter
+
+  1. client_id
+  2. incident_desc
+  3. city
+  4. country
+
+```
